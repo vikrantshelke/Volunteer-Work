@@ -1,1 +1,54 @@
-# Creating your own ChatGPT with Streamlit and OpenAI API
+## Creating your own ChatGPT with Streamlit and OpenAI API
+
+### Prerequisites
+1. Python 3.6 or above
+2. An OpenAI API Key
+
+### Steps to run the application
+**1. Navigate to the project directory:**
+```shell
+cd Volunteer-Work/Week_2
+```
+
+3. Create a virtual environment and activate it:
+
+On macOS and Linux:
+```shell
+python3 -m venv myenv
+source myenv/bin/activate
+```
+
+On Windows:
+```shell
+python -m venv myenv
+.\myenv\Scripts\activate
+```
+
+3a. Upgrade pip (optional but recommended)
+```shell
+pip install --upgrade pip
+```
+
+4. Install the necessary Python packages:
+```shell
+pip install -r requirements.txt
+```
+
+5. Create a .env file in the root directory of the project and add your OpenAI API key:
+```shell
+echo OPENAI_API_KEY=your-api-key > .env
+```
+OR
+
+```shell
+cp .env.example .env
+```
+
+Please replace your-api-key with your actual OpenAI API key.
+
+6. Run the Streamlit application:
+```shell
+streamlit run chatbot.py
+```
+
+Open a web browser and navigate to http://localhost:8501 to interact with the application.
