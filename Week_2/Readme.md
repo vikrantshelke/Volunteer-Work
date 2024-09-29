@@ -4,6 +4,8 @@
 1. Python 3.6 or above
 2. An OpenAI API Key
 
+### App Demo
+
 ### Steps to run the application
 **1. Navigate to the project directory:**
 ```shell
