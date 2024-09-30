@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ![](https://github.com/vikrant1111/Data-Engineering---YouTube-Analysis-Project/assets/38528301/4b77216b-853a-4b02-9060-f772cee858cb)
 
 ### Visualization using Tableau:
-![](https://github.com/user-attachments/assets/2054199a-27a0-47de-a44f-59ef28bf7745)
+![](https://github.com/user-attachments/assets/0dbb908f-6454-4fb3-a455-0ac09d018a63)
 
 ![](https://github.com/user-attachments/assets/9abcf166-106b-48ca-8468-49dd44147e66)
 
