@@ -30,12 +30,13 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ### Architecture Diagram:
 
-![image](https://github.com/vikrant1111/Data-Engineering---YouTube-Analysis-Project/assets/38528301/4b77216b-853a-4b02-9060-f772cee858cb)
+![](https://github.com/vikrant1111/Data-Engineering---YouTube-Analysis-Project/assets/38528301/4b77216b-853a-4b02-9060-f772cee858cb)
 
 ### Visualization using Tableau:
+![](https://github.com/user-attachments/assets/2054199a-27a0-47de-a44f-59ef28bf7745)
 
-![image](https://github.com/user-attachments/assets/16d5aa5a-c92b-4274-a25d-4b914fcdb8b6)
-![image](https://github.com/user-attachments/assets/c150a912-ea71-4ed6-87aa-1c85429367b6)
+![](https://github.com/user-attachments/assets/9abcf166-106b-48ca-8468-49dd44147e66)
+
 
 ### Analysis:
 - People & Blogs is the most popular video category across the Canada, United States and Great Britain, followed by Music.
